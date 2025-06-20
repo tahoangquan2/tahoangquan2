@@ -12,7 +12,7 @@ Here, you will find a wild collection of code experiments, unfinished projects a
 
 ## Random Personal Projects
 
-![404 Projects Not Found](https://http.cat/404)
+[http.cat/404](https://http.cat/404)
 
 ## Some Facts
 
