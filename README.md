@@ -2,7 +2,7 @@
 
 Welcome to my corner of GitHub!
 
-Here, you'll find a wild collection of code experiments, unfinished projects and the occasional stroke of genius.
+Here, you will find a wild collection of code experiments, unfinished projects and the occasional stroke of genius.
 
 ## What I Do
 
@@ -12,16 +12,19 @@ Here, you'll find a wild collection of code experiments, unfinished projects and
 
 ## Random Personal Projects
 
-None.
+![404 Projects Not Found](https://http.cat/404)
 
 ## Some Facts
 
-- Can recite "Hello World" in 6 languages (including Vietnamese and English).
+- Can recite "Hello World" in 6 languages including Vietnamese and English.
 - My code compiles 60% of the time, every time.
-- I once fixed a bug by turning my computer off and on again (real).
+- I once fixed a bug by turning my computer off and on again.
+- I am an average C++ enjoyer and a Java hater.
 
 ## Find Me Elsewhere
 
-- [LinkedIn](linkedin.com/in/tahoangquan2)
-- [Codeforces](codeforces.com/profile/tahoangquan2)
-- [Facebook](fb.com/tahoangquan2)
+- [LinkedIn](https://linkedin.com/in/tahoangquan2)
+- [Codeforces](https://codeforces.com/profile/tahoangquan2)
+- [AtCoder](https://atcoder.jp/users/tahoangquan2)
+- [Facebook](https://fb.com/tahoangquan2)
+- [GitHub](https://theuselessweb.com)
