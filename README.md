@@ -1,6 +1,6 @@
 # Hi there, I'm Quan
 
-Welcome to my corner of GitHub!
+Welcome to my GitHub.
 
 Here, you will find a wild collection of code experiments, unfinished projects and the occasional stroke of genius.
 
