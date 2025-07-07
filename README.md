@@ -2,7 +2,14 @@
 
 Welcome to my GitHub.
 
-Here, you will find a wild collection of code experiments, unfinished projects and the occasional stroke of genius.
+Here, you will find a wild collection of code experiments and unfinished projects.
+
+## About Me
+
+- Can recite "Hello World" in 6 languages including Vietnamese and English.
+- My code compiles 60% of the time, every time.
+- I once fixed a bug by turning my computer off and on again.
+- I am an average C++ enjoyer and a Java hater.
 
 ## What I Do
 
@@ -13,13 +20,6 @@ Here, you will find a wild collection of code experiments, unfinished projects a
 ## Random Personal Projects
 
 [http.cat/404](https://http.cat/404)
-
-## Some Facts
-
-- Can recite "Hello World" in 6 languages including Vietnamese and English.
-- My code compiles 60% of the time, every time.
-- I once fixed a bug by turning my computer off and on again.
-- I am an average C++ enjoyer and a Java hater.
 
 ## Find Me Elsewhere
 
