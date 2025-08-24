@@ -13,13 +13,9 @@ Here, you will find a wild collection of code experiments and unfinished project
 
 ## What I Do
 
-- Write code. Break code. Fix code (maybe).
+- Write code. Break code. Fix code.
 - Pretend to understand documentation.
 - Google errors like a pro.
-
-## Random Personal Projects
-
-[http.cat/404](https://http.cat/404)
 
 ## Find Me Elsewhere
 
