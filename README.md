@@ -23,4 +23,4 @@ Here, you will find a wild collection of code experiments and unfinished project
 - [Codeforces](https://codeforces.com/profile/tahoangquan2)
 - [AtCoder](https://atcoder.jp/users/tahoangquan2)
 - [Facebook](https://fb.com/tahoangquan2)
-- [GitHub](https://theuselessweb.com)
+- [GitHub](https://tahoangquan2.github.io/why)
