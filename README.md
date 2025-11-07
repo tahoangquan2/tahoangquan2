@@ -9,7 +9,7 @@ Here, you will find a wild collection of code experiments and unfinished project
 - Can recite "Hello World" in 6 languages including Vietnamese and English.
 - My code compiles 60% of the time, every time.
 - I once fixed a bug by turning my computer off and on again.
-- I am an average C++ enjoyer and a Java hater.
+- I am an average C++ enjoyer but know nothing about C++.
 
 ## What I Do
 
