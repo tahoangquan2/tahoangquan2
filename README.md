@@ -2,7 +2,7 @@
 
 Welcome to my GitHub.
 
-Here, you will find a wild collection of code experiments and unfinished projects.
+Here you will find a wild assortment of code experiments and unfinished projects, all of which I have hidden because they are so bad.
 
 ## About Me
 
