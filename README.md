@@ -10,12 +10,7 @@ Here you will find a wild collection of code experiments and unfinished projects
 - My code compiles 60% of the time, every time.
 - I once fixed a bug by turning my computer off and on again.
 - I am an average C++ enjoyer but know nothing about C++.
-
-## What I Do
-
-- Write code. Break code. Fix code.
-- Pretend to understand documentation.
-- Google errors like a pro.
+- The lion does not concern himself with readability.
 
 ## Find Me Elsewhere
 
