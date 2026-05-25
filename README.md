@@ -1,5 +1,7 @@
 # Hi there, I'm Quan
 
+![Language breakdown](https://public.hquan.dev/svg)
+
 Welcome to my GitHub.
 
 Here you will find a wild collection of code experiments and unfinished projects, all of which I have hidden because they are so bad.
@@ -16,3 +18,4 @@ Here you will find a wild collection of code experiments and unfinished projects
 - [Codeforces](https://codeforces.com/profile/tahoangquan2)
 - [Facebook](https://fb.com/tahoangquan2)
 - [GitHub](https://tahoangquan2.github.io/why)
+- 
